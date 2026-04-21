@@ -1,0 +1,10 @@
+.gradle/
+.idea/
+build/
+app/build/
+*.iml
+local.properties
+*.bin
+*.tflite
+*.task
+*.aar
